@@ -1,4 +1,4 @@
-# -FIBONACCI-GENERATOR-Python
+# FIBONACCI-GENERATOR-Python
 Fibonacci Sequence Generator  My first Git repository! This simple Python script generates infinite Fibonacci numbers, perfect for beginners learning about generators and the yield statement.
 
 
@@ -16,7 +16,7 @@ Installation
 To use this script, you'll need Python installed on your machine. You can download Python from the official Python website.
 
 Clone this repository to your local machine using:
-git clone https://github.com/faqhus/-FIBONACCI-GENERATOR-Python.git
+git clone [https://github.com/faqhus/-FIBONACCI-GENERATOR-Python.git](https://github.com/faqhus/FIBONACCI-GENERATOR-Python.git)
 
 # Usage:
 
